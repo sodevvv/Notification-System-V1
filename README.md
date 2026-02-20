@@ -45,7 +45,7 @@ FONCTIONNALITÉS
 ÉVÉNEMENTS DISPONIBLES
 
  Envoyer une annonce :
-TriggerServerEvent("so_notifs:SendAnnounce", job, jobLogo, type, color, message, numero)
+TriggerClientEvent("so_notifs:SendAnnounce", job, jobLogo, type, color, message, numero)
 
 Envoyer une notification :
 TriggerClientEvent("so_notifs:SendDefaultNotification", source, icon, message, color, duration)
