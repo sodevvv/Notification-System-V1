@@ -98,3 +98,8 @@ N → Refuser une alerte
 exports("AddAnnounce", AddAnnounce)  
 exports("AddAlert", AddAlert)  
 exports("AddNotificationBasic", AddNotificationBasic)
+
+
+![Preview](AlertPreview.png)
+![Preview](AnnouncePreview.png)
+![Preview](NotificationPreview.png)
